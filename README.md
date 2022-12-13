@@ -1,6 +1,9 @@
 # COM576
 The final project of COM576- Scene Classification and Grad-CAM Visualization
 
+## Team Members
+Olivia Qu(oliviaqu); Wenlu Dong(Luluiscoding); Shiyue Wang(shiyue0418); Yuqi Wang(YuqiWang98)
+
 ## Proposal:
 During the class, we have learned about convolutional neural networks. In this project, we will build and train a Deep Convolutional Neural Network (CNN) to detect the type of scenery in an image. We will use a technique known as Gradient-Weighted Class Activation Mapping (Grad-CAM) to visualize the regions of the inputs and help us explain how our CNN models think and make decision.
 
