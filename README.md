@@ -23,6 +23,7 @@ The estimated steps will be:
 
 ## Proposed algorithm
 Convolutional Neural Networks (CNNs)
+
 Grad-Cam
 
 ## Experiments
@@ -30,5 +31,6 @@ we will look at classifying scenes into one of 6 categories- buildings, forest, 
 
 ## Datasets of interest
 •	This dataset contains about ~25k images from a wide range of natural scenes from all around the world. The task is to identify which kind of scene can the image be categorized into.
+
 •	It is a 6-class problem - Buildings, Forests, Mountains, Glacier, Street, Sea
 
